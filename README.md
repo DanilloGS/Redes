@@ -1,3 +1,3 @@
 # Redes
 
-Para organizar aulas da disciplina de Fundamentos de Redes de Computadores
+Repositório para organizar aulas da disciplina de Fundamentos de Redes de Computadores
