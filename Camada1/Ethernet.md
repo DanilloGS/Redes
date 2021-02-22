@@ -8,7 +8,7 @@
    - CSMA/CD: Usado para determinar quando os canais de comunicação estão livres e quando o aparelho pode transmitir os dados.
    - Se detectar que ambos os computadores estão enviando dados ao mesmo tempo, o protocolo envia um sinal para interrupção dos dados. Isso evita que ocorram colisões.
  
-## Endereço MAC
+## Endereço MAC (6 Bytes)
  
 - É um identificador global conectado a uma interface de rede individual.
 - É representado por Hexadecimais dividido 6 Octetos (Número que representa 8 bits)
